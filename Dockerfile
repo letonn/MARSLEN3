@@ -1,4 +1,4 @@
-FROM Zed-thon/ZED_USERBOT:latest
+FROM Zed-Thon/ZED_USERBOT:latest
 
 # نسخ رابط السورس 
 RUN git clone https://github.com/Zed-Thon/ZED_USERBOT.git /root/userbot
