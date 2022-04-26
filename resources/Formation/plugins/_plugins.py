@@ -75,7 +75,7 @@ R = (
     "**𓄂-** 𝙎𝙊𝙐𝙍𝘾𝙀 𝘿𝙀𝙑 **⪼**  [𐇮 𝙕𝞝𝙇𝙕𝘼𝙇 آلـۘهہؚيـٰـُ͢ـُ໋۠بـ໋ۘ۠ه 𐇮](t.me/ZlZZl77)   \n"
     "**𓆰** 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙀𝙋𝙊 **⪼**  [𝙕𝞝𝘿𝙏𝙃𝙊𝙉](https://t.me/ZedThon/102)  "
 )
-K = "https://github.com/Zedthon/ZED_USERBOT"
+K = "https://github.com/Zed-Thon/ZED_USERBOT"
 
 # Alive Bot 
 TOSH = (
