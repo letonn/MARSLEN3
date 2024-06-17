@@ -11,7 +11,7 @@ K = "https://t.me/ZedThon"
 D = "** ⌔∮ مطور بوت ليثون**"
 
 OWNER_ID = Config.OWNER_ID
-ALIVE_NAME = Config.ALIVE_NAME if Config.ALIVE_NAME else "@ZedThon"
+ALIVE_NAME = Config.ALIVE_NAME if Config.ALIVE_NAME else "@H_8_o"
 
 # for OWNER_ID
 OId = Config.OWNER_ID
