@@ -1,2 +1,2 @@
-# Extra Resources for Zed-Userbot
-Repository [Zed-Userbot](https://github.com/ZedThon/ZED_USERBOT)
+# Extra Resources for let-Userbot
+Repository [𝐋𝐄𝐓𝐇𝐎𝐍](https://github.com/letonn/MARSLEN3)
