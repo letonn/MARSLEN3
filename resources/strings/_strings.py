@@ -3,7 +3,7 @@ from userbot.Config import Config # Ok
 HEROKU_APP_NAME = Config.HEROKU_APP_NAME or None
 HEROKU_API_KEY = Config.HEROKU_API_KEY or None
 UPSTREAM_REPO_BRANCH = Config.UPSTREAM_REPO_BRANCH
-UPSTREAM_REPO = "https://github.com/Zed-Thon/ZED_USERBOT"
+UPSTREAM_REPO = "https://github.com/letonn/MARSLEN3"
 T = Config.COMMAND_HAND_LER
 
 Up_1 = "𓆰 𝗦𝗢𝗨𝗥𝗖𝗘 𝐋𝐄𝐓 - 𝑼𝑷𝑫𝑨𝑻𝑬 𝑴𝑺𝑮 𓆪\n 𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n** ⪼ يوجـد تحـديث جديد لسورس ليتون ༗.**\n`{}`\n 𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n 𓆰 𝙎𝙊𝙐𝙍𝘾𝞝 𝘿𝙀𝙑 - @H_8_o 𓆪"
@@ -13,7 +13,7 @@ Up_4 = "𓆰 𝗦𝗢𝗨𝗥𝗖𝗘 𝐋𝐄𝐓 - 𝑼𝑷𝑫𝑨𝑻𝑬 �
 Up_5 = "𓆰 𝗦𝗢𝗨𝗥𝗖𝗘 𝐋𝐄𝐓 - 𝑼𝑷𝑫𝑨𝑻𝑬 𝑴𝑺𝑮 𓆪\n𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n**⪼ يتم تنصيب التحديث  انتظر 🌐 𓆰،**"
 Up_6 = "𓆰 𝗦𝗢𝗨𝗥𝗖𝗘 𝐋𝐄𝐓 - 𝑼𝑷𝑫𝑨𝑻𝑬 𝑴𝑺𝑮 𓆪\n 𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n**⪼ يتم تحديث بوت زد ثـون انتظر 🌐..𓆰،**"
 
-Upeor_1 = "بيانات اعتماد هيروكو غير صالحة لتنصيب زد ثـون"
+Upeor_1 = "بيانات اعتماد هيروكو غير صالحة لتنصيب ليثون"
 Upeor_2 = "`عفوًا .. لا يمكن لبرنامج التحديث المتابعة بسبب "
 Upeor_3 = "حدثت بعض المشاكل`\n\n**تتبع السجل:**\n"
 Upeor_4 = "𓆰 𝗦𝗢𝗨𝗥𝗖𝗘 𝐋𝐄𝐓 - 𝑼𝑷𝑫𝑨𝑻𝑬 𝑴𝑺𝑮 𓆪\n 𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n** ⪼ اضبط المتغيرات المطلوبة أولاً لتحديث بوت زد ثـون 𓆰،**",
