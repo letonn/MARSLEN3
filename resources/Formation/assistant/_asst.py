@@ -8,7 +8,7 @@ from userbot.plugins import mention
 
 # zed
 K = "https://t.me/ZedThon"
-D = "** ⌔∮ مطور بوت زد ثـون**"
+D = "** ⌔∮ مطور بوت ليثون**"
 
 OWNER_ID = Config.OWNER_ID
 ALIVE_NAME = Config.ALIVE_NAME if Config.ALIVE_NAME else "@ZedThon"
@@ -45,8 +45,8 @@ asst_p = "https://telegra.ph/file/5adc05c0958432a117183.jpg"
 asst_c = "➥ **ASSISTANT IS:** `ONLINE`\n"
 asst_c += f"➥ **My Boss** : {Def} \n"
 asst_c += "➥ **Heroku Database** : `AWS - Working Properly`\n"
-asst_c += "➥ **Copyright** : By [𝙕𝞝𝘿𝙏𝙃𝙊𝙉](https://github.com/Zedthon)\n"
-asst_c += "[Assistant By ](https://t.me/ZedThon)"
+asst_c += "➥ **Copyright** : By [𝐋𝐄𝐓𝐇𝐎𝐍𓅛](https://github.com/letonn/MARSLEN)\n"
+asst_c += "[Assistant By ](https://t.me/H_8_o)"
 
 # for ping
 def get_readable_time(seconds: int) -> str:
@@ -374,7 +374,7 @@ SetMsg = [
     "⌔∮ يتم اكمال تنصيب بوتك في @BotFather",
     "⌔∮ تم تنصيب بوتك"
 ]
-SetDec = "- 𝙕𝞝𝘿𝙏𝙃𝙊𝙉 𝘼𝙎𝙎𝙄𝙎𝙏𝘼𝙉𝙏 𝘽𝙊𝙏 🔱\n- ZED 𝘽𝙊𝙏 𝙁𝙊𝙍 ~ {}\n- 𝙎𝙊𝙐𝙍𝘾𝙀 𝘿𝙀𝙑 ~ @ZedThon 𖤨"
-SetAbt = "- 𝙎𝙊𝙐𝙍𝘾𝙀 𝙕𝞝𝘿𝙏𝙃𝙊𝙉 🔱\n- ZED 𝘽𝙊𝙏 𝙁𝙊𝙍 ~ {}"
+SetDec = "- 𝐋𝐄𝐓𝐇𝐎𝐍𓅛 𝘼𝙎𝙎𝙄𝙎𝙏𝘼𝙉𝙏 𝘽𝙊𝙏 🔱\n- LAE 𝘽𝙊𝙏 𝙁𝙊𝙍 ~ {}\n- 𝙎𝙊𝙐𝙍𝘾𝙀 𝘿𝙀𝙑 ~ @ZedThon 𖤨"
+SetAbt = "- 𝙎𝙊𝙐𝙍𝘾𝙀 𝐋𝐄𝐓𝐇𝐎𝐍𓅛 🔱\n- LAE 𝘽𝙊𝙏 𝙁𝙊𝙍 ~ {}"
 
 # This is For ZED - Userbot only!!
