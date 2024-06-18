@@ -10,7 +10,7 @@ from . import ALIVE_NAME, StartTime, get_readable_time, mention, reply_id
 
 DEFULTUSER = ALIVE_NAME or "ZEDbot"
 ZED_IMG = "https://telegra.ph/file/e98db958e796347fb7d4b.jpg"
-ZED_TEXT = "𓆩 𝑾𝑬𝑳𝑪𝑶𝑴𝑬 𝑻𝑶 𝑺𝑶𝑼𝑹𝑪𝑬 𝙕𝞝𝘿𝙏𝙃𝙊𝙉 𓆪"
+ZED_TEXT = "𓆩 𝑾𝑬𝑳𝑪𝑶𝑴𝑬 𝑻𝑶 𝑺𝑶𝑼𝑹𝑪𝑬 𝐋𝐄𝐓𝐇𝐎𝐍𓅛 𓆪"
 ZEDEM = "**⌔∮**"
 
 
